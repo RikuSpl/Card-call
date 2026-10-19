@@ -59,7 +59,7 @@ npm run dev
 
 Open the URL provided by Vite in your browser.
 
-### Git Workflow
+## Git Workflow
 
 main contains the shared baseline.
 
